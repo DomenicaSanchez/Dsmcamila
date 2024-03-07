@@ -16,7 +16,7 @@
   <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dsmcamila&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117" />
 </div>
 
-
+<hr>
  
 
 <!--h1 without bottom border-->
