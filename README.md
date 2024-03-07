@@ -7,18 +7,6 @@
 
 <br>
 
-<!-- Contributions Last Year-->
-[![](https://raw.githubusercontent.com/Dsmcamila/Dsmcamila/master/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-<!-- Top languages by Repo--> <!-- Top Languages by commit-->
-[![](https://raw.githubusercontent.com/Dsmcamila/Dsmcamila/master/profile-summary-card-output/radical/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/Dsmcamila/Dsmcamila/master/profile-summary-card-output/radical/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-<!-- Stats --> <!-- Commits-->
-[![](https://raw.githubusercontent.com/Dsmcamila/Dsmcamila/master/profile-summary-card-output/radical/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/Dsmcamila/Dsmcamila/master/profile-summary-card-output/radical/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-<br>
-<hr>
-
 
 
 <!--h1 without bottom border-->
@@ -34,5 +22,4 @@
   </a>
 </p>
 
-<!--Contacts -->
-<!-- INCOMPLETE!!! -->
+
