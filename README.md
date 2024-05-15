@@ -9,6 +9,7 @@
 
 
 <hr>
+<hr>
 
 <!-- Estados Git -->
 <div align="center">  
@@ -17,7 +18,7 @@
 </div>
 
 <hr>
- 
+<hr> 
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
