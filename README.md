@@ -45,10 +45,42 @@
 </div>
 
 ---
-### 📊 Mis Estadísticas
+
+### 📊 EStadísticas
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DomenicaSanchez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10&title_color=bc6cff&icon_color=00ced1" alt="Estadísticas Generales" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomenicaSanchez&layout=compact&theme=dracula&border_radius=10&title_color=bc6cff" alt="Lenguajes más usados" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/DomenicaSanchez/Dsmcamila/master/profile-summary-card-output/dracula/0-profile-details.svg" width="98%" style="border-radius: 10px;" />
+  </a>
+
+  <br>
+
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="https://raw.githubusercontent.com/DomenicaSanchez/Dsmcamila/master/profile-summary-card-output/dracula/1-repos-per-language.svg" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="https://raw.githubusercontent.com/DomenicaSanchez/Dsmcamila/master/profile-summary-card-output/dracula/2-most-commit-language.svg" width="100%" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="https://raw.githubusercontent.com/DomenicaSanchez/Dsmcamila/master/profile-summary-card-output/dracula/3-stats.svg" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="https://raw.githubusercontent.com/DomenicaSanchez/Dsmcamila/master/profile-summary-card-output/dracula/4-productive-time.svg" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
